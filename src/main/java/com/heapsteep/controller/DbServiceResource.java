@@ -42,7 +42,7 @@ public class DbServiceResource {
     	for(Quote quote: quotes)
     		quotesRepository.delete(quote);
 
-        return getQuotesByUserName(username);
+        return getQuotesByUserName(username); 
     }
 
 
