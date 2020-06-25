@@ -1,4 +1,4 @@
-package com.heapsteep.model;
+package com.heapsteep.model; 
 
 import java.util.List;
 

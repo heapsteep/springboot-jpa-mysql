@@ -1,4 +1,4 @@
-package com.heapsteep.repository;
+package com.heapsteep.repository; 
 
 import com.heapsteep.model.Quote;
 import org.springframework.data.jpa.repository.JpaRepository;
